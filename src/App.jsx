@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './../styles/globals.css'
-import './app.css'
+import './App.css'
 import styles from "./../styles/Home.module.css";
 import useFetch, { useMutate } from './hooks/useFetch';
 import { Autocomplete, Box, Button, Textarea } from '@mui/joy';
