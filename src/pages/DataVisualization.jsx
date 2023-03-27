@@ -21,88 +21,78 @@ const DataVisualization = () => {
         <Box sx={{ display: "flex", flexWrap: "wrap", gap: 2 }}>
           <a
             data-fancybox="gallery"
-            href="./src/assets/charts/highestByBrand.png"
+            href="./../src/assets/charts/highestByModel.png"
           >
             <img
-              src="./src/assets/charts/highestByBrand.png"
+              src="./../src/assets/charts/highestByModel.png"
               width="200"
               height="150"
             />
           </a>
           <a
             data-fancybox="gallery"
-            href="./src/assets/charts/highestByModel.png"
+            href="./../src/assets/charts/lowestPhoneByBrand.png"
           >
             <img
-              src="./src/assets/charts/highestByModel.png"
+              src="./../src/assets/charts/lowestPhoneByBrand.png"
               width="200"
               height="150"
             />
           </a>
           <a
             data-fancybox="gallery"
-            href="./src/assets/charts/lowestPhoneByBrand.png"
+            href="./../src/assets/charts/lowestPhonePriceByModel.png"
           >
             <img
-              src="./src/assets/charts/lowestPhoneByBrand.png"
+              src="./../src/assets/charts/lowestPhonePriceByModel.png"
               width="200"
               height="150"
             />
           </a>
           <a
             data-fancybox="gallery"
-            href="./src/assets/charts/lowestPhonePriceByModel.png"
+            href="./../src/assets/charts/maxPriceByBrand.png"
           >
             <img
-              src="./src/assets/charts/lowestPhonePriceByModel.png"
+              src="./../src/assets/charts/maxPriceByBrand.png"
               width="200"
               height="150"
             />
           </a>
           <a
             data-fancybox="gallery"
-            href="./src/assets/charts/maxPriceByBrand.png"
+            href="./../src/assets/charts/minPriceForEachModel.png"
           >
             <img
-              src="./src/assets/charts/maxPriceByBrand.png"
+              src="./../src/assets/charts/minPriceForEachModel.png"
               width="200"
               height="150"
             />
           </a>
           <a
             data-fancybox="gallery"
-            href="./src/assets/charts/minPriceForEachModel.png"
+            href="./../src/assets/charts/minimumPriceByBrand.png"
           >
             <img
-              src="./src/assets/charts/minPriceForEachModel.png"
-              width="200"
-              height="150"
-            />
-          </a>
-          <a
-            data-fancybox="gallery"
-            href="./src/assets/charts/minimumPriceByBrand.png"
-          >
-            <img
-              src="./src/assets/charts/minimumPriceByBrand.png"
+              src="./../src/assets/charts/minimumPriceByBrand.png"
               width="200"
               height="150"
             />
           </a>
     
-          <a data-fancybox="gallery" href="./src/assets/charts/priceRange.png">
+          <a data-fancybox="gallery" href="./../src/assets/charts/priceRange.png">
             <img
-              src="./src/assets/charts/priceRange.png"
+              src="./../src/assets/charts/priceRange.png"
               width="200"
               height="150"
             />
           </a>
           <a
             data-fancybox="gallery"
-            href="./src/assets/charts/totalOffersForEachBrand.png"
+            href="./../src/assets/charts/totalOffersForEachBrand.png"
           >
             <img
-              src="./src/assets/charts/totalOffersForEachBrand.png"
+              src="./../src/assets/charts/totalOffersForEachBrand.png"
               width="200"
               height="150"
             />
