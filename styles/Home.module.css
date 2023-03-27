@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 6rem;
-  min-height: 100vh;
+  min-height: 90vh;
 }
 
 .description {
@@ -76,6 +76,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   position: relative;
   padding: 4rem 0;
 }
